@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<?import javafx.scene.control.*?>-->
+<!--<?import javafx.scene.layout.*?>-->
 
-<Pane fx:controller="managestudent.danhsach.ControllerDanhSach" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
-      <Button layoutX="14.0" layoutY="23.0" mnemonicParsing="false" text="Trang chủ" />
-      <TableView fx:id="tbview" layoutY="101.0" prefHeight="299.0" prefWidth="600.0">
-        <columns>
-          <TableColumn fx:id="txtName" prefWidth="330.0" text="Tên sinh viên" />
-          <TableColumn fx:id="txtAge" prefWidth="134.0" text="Tuổi sinh viên" />
-            <TableColumn fx:id="txtMark" prefWidth="131.0" text="Điểm thi" />
-        </columns>
-      </TableView>
-   </children>
-</Pane>
+<!--<Pane fx:controller="managestudent.danhsach.ControllerDanhSach" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">-->
+<!--   <children>-->
+<!--      <Button layoutX="14.0" layoutY="23.0" mnemonicParsing="false" text="Trang chủ" />-->
+<!--      <TableView fx:id="tbview" layoutY="101.0" prefHeight="299.0" prefWidth="600.0">-->
+<!--        <columns>-->
+<!--          <TableColumn fx:id="txtName" prefWidth="330.0" text="Tên sinh viên" />-->
+<!--          <TableColumn fx:id="txtAge" prefWidth="134.0" text="Tuổi sinh viên" />-->
+<!--            <TableColumn fx:id="txtMark" prefWidth="131.0" text="Điểm thi" />-->
+<!--        </columns>-->
+<!--      </TableView>-->
+<!--   </children>-->
+<!--</Pane>-->
